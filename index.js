@@ -1,4 +1,1 @@
-const hi = () =>{
-console.log("Hello Node.js!")
-}
-hi()
+console.log('Hello Node.js!')
